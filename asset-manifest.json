@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/FrontendmentorSunnyLanding/static/css/main.8ffdbfa7.css",
+    "main.js": "/FrontendmentorSunnyLanding/static/js/main.894f4652.js",
+    "static/js/787.cda612ba.chunk.js": "/FrontendmentorSunnyLanding/static/js/787.cda612ba.chunk.js",
+    "static/media/image-header.jpg": "/FrontendmentorSunnyLanding/static/media/image-header.9167cda0c72b56b2cda5.jpg",
+    "static/media/image-gallery-milkbottles.jpg": "/FrontendmentorSunnyLanding/static/media/image-gallery-milkbottles.df1d9d8460e873924250.jpg",
+    "static/media/image-graphic-design.jpg": "/FrontendmentorSunnyLanding/static/media/image-graphic-design.7ac8bdf0d3df29591a3b.jpg",
+    "static/media/image-photography.jpg": "/FrontendmentorSunnyLanding/static/media/image-photography.104cf40b52f66520afb0.jpg",
+    "static/media/image-gallery-sugarcubes.jpg": "/FrontendmentorSunnyLanding/static/media/image-gallery-sugarcubes.09b72f4fbfbf08579f9d.jpg",
+    "static/media/image-gallery-orange.jpg": "/FrontendmentorSunnyLanding/static/media/image-gallery-orange.373d43f1f42a447ed9a6.jpg",
+    "static/media/image-gallery-cone.jpg": "/FrontendmentorSunnyLanding/static/media/image-gallery-cone.461ff4214c3ac822dfff.jpg",
+    "static/media/image-gallery-sugar-cubes.jpg": "/FrontendmentorSunnyLanding/static/media/image-gallery-sugar-cubes.fefc3841f885fca27c53.jpg",
+    "static/media/logo.svg": "/FrontendmentorSunnyLanding/static/media/logo.4271b8992622e4dd1cc7de08466dab06.svg",
+    "static/media/icon-instagram.svg": "/FrontendmentorSunnyLanding/static/media/icon-instagram.7d97118aca6da4dd308fbe5b0ad8b9d6.svg",
+    "static/media/icon-pinterest.svg": "/FrontendmentorSunnyLanding/static/media/icon-pinterest.fd8b84da3f15023f2ae8d359495f43db.svg",
+    "index.html": "/FrontendmentorSunnyLanding/index.html",
+    "static/media/icon-twitter.svg": "/FrontendmentorSunnyLanding/static/media/icon-twitter.23df5d421d6e70c35715be06e375f403.svg",
+    "static/media/icon-facebook.svg": "/FrontendmentorSunnyLanding/static/media/icon-facebook.101bd07e99eaeae8b0f594d4908d92b0.svg",
+    "static/media/icon-arrow-down.svg": "/FrontendmentorSunnyLanding/static/media/icon-arrow-down.979ef07a7cbb07d35f05bbaa093f7489.svg",
+    "static/media/icon-hamburger.svg": "/FrontendmentorSunnyLanding/static/media/icon-hamburger.7764b7eb6060edb45161f8b146f1373c.svg",
+    "main.8ffdbfa7.css.map": "/FrontendmentorSunnyLanding/static/css/main.8ffdbfa7.css.map",
+    "main.894f4652.js.map": "/FrontendmentorSunnyLanding/static/js/main.894f4652.js.map",
+    "787.cda612ba.chunk.js.map": "/FrontendmentorSunnyLanding/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ffdbfa7.css",
+    "static/js/main.894f4652.js"
+  ]
+}
